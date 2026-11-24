@@ -60,7 +60,7 @@ Tomar um projeto por vez, de preferência com café.
 | Projeto | O que é | Dose |
 |---|---|---|
 | 🧭 [**SoloRota**](https://github.com/joaoteixeirap/SoloRota) | App para nômades digitais, com Santos como cidade piloto. Feito do zero por 4 pessoas em **uma madrugada**. | [solorota.vercel.app](https://solorota.vercel.app) |
-| 🍊 [**OrangePortfolio**](https://github.com/joaoteixeirap/OrangePortfolio) | O projeto campeão do hackathon. | [repositório](https://github.com/joaoteixeirap/OrangePortfolio) |
+| 🍊 [**OrangePortfolio**](https://github.com/joaoteixeirap/OrangePortfolio) | O projeto campeão do hackathon. | [orangeportfolio-alpha.vercel.app](https://orangeportfolio-alpha.vercel.app) |
 | 🏢 [**OmniLar**](https://github.com/joaoteixeirap/OmniLar) | MVP de plataforma B2B2C de serviços, construído com a equipe da faculdade. | [omnilar.site](https://omnilar.site) |
 
 ### ⚠️ REAÇÕES ADVERSAS
